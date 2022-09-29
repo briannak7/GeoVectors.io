@@ -8,24 +8,35 @@
 </head>
 
 <body>
-<h1>HYPOTHESIS ABOUT MT</h1>
-<p></p>
-<p>Data from the https://book.flowingdata.com/</p>
+<h1>Lessened Homicide Rates Result in Fewer Incarceration Locations within Different Regions of the US</h1>
 <p></p>
 </body>
 
 <body>
 
 <div id="vis1"></div>
+<div id="vis2"></div>
 
 </body>
 
 <script>
-    const spec1 = "graph.json";
+    const spec1 = "geograph.json";
+    const spec2 = "box-and-whisker-plot.json";
+
     vegaEmbed("#vis1", spec1)
         // result.view provides access to the Vega View API
         .then(result => console.log(result))
         .catch(console.warn);
 
+    vegaEmbed("#vis2", spec2)
+        // result.view provides access to the Vega View API
+        .then(result => console.log(result))
+        .catch(console.warn);
 
 </script>
+<body>
+<p>US Prison data from https://github.com/joshbegley/data/blob/master/us-prisons.csv</p>
+<p>Western boarder created from: https://geojson.io/#map=4/38.96/-121.90, </p>
+<p>Homicide rates from 2005-2020 from: https://www.cdc.gov/nchs/pressroom/sosmap/homicide_mortality/homicide.htm</p>
+<p>homicide rate scatterplot and bar graph of wild west, modern west, and rest of the us historical and modern</p>
+</body>
