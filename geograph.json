@@ -1,10 +1,10 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 700,
-  "height": 500,
-  "padding": 10,
+  "width": 600,
+  "height": 400,
+  "padding": 12,
   "title": {
-    "text": "US Prisons circa 2015",
+    "text": "US Prison Locations circa 2015",
     "fontSize": 20
   },
 
@@ -186,9 +186,11 @@
           "field": "id",
           "type": "nominal",
           "legend": {
+            "padding": -15,
+            "labelOffset": 5,
             "title": null,
             "orient": "bottom-right",
-            "symbolStrokeWidth": 5,
+            "symbolStrokeWidth": 6,
             "symbolSize": 1000,
             "offset": 0
           },

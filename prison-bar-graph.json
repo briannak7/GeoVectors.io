@@ -1,0 +1,47 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {"text": "Total Prisons by Region", "fontSize": 15},
+  "width": 300,
+  "height": 300,
+
+  "data": {
+    "url": "prisons-by-region.json"
+  },
+
+  "mark": {"type": "bar", "size": 40},
+  "encoding": {
+    "x": {
+      "field": "REGION",
+      "type": "nominal",
+      "sort": ["SOUTHEAST", "MIDWEST", "WEST", "SOUTHWEST", "NORTHEAST"],
+      "axis": {
+        "title": "Region",
+        "labelAngle": 40,
+        "labelFontSize": 12,
+        "titleFontSize": 18
+      }
+    },
+    "y": {
+      "field": "PRISONS",
+      "type": "quantitative",
+      "scale": {"domain": [0, 1700]},
+      "axis": {
+        "title": "Total Prisons",
+        "labelFontSize": 12,
+        "titleFontSize": 18,
+        "tickCount": 5,
+        "gridColor": {
+          "condition": {"test": "datum.value === 0", "value": "black"},
+          "value": "#ddd"
+        }
+      }
+    },
+
+    "color": {
+      "field": "REGION", "title":"Region", "legend": null,
+      "scale": {"range": ["rgb(4,86,168)", "#465154", "#FFAE03", "#BA0000", "#853d8f"]}
+    },
+    "tooltip": {"field": "PRISONS", "type": "quantitative"}
+  },
+  "config": {}
+}

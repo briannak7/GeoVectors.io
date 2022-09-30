@@ -1,9 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "description": "A box plot example showing aggregate statistics for penguin body mass.",
-  "width": 500,
+  "width": 400,
   "padding": 5,
-  "title": {"text": "Western vs. Non-Western States Homicide Data 2005-2020",
+  "title": {"text": "Homicide Rates by Region between 2005-2020",
     "fontSize": 15},
 
   "config": {
@@ -46,6 +46,12 @@
       "domain": {"data": "homicides", "field": "RATE"},
       "domainMin": 0,
       "zero": false, "nice": true
+    },
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "homicides", "field": "GROUP"},
+      "range": {"scheme": ["#FFAE03", "rgb(4,86,168)", "#853d8f", "#BA0000", "#465154"]}
     }
   ],
 
@@ -109,7 +115,7 @@
           "from": {"data": "summary"},
           "encode": {
             "enter": {
-              "fill": {"value": "steelblue"},
+              "fill": {"value": "red"},
               "cornerRadius": {"value": 4}
             },
             "update": {

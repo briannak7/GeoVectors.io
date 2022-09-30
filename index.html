@@ -8,7 +8,7 @@
 </head>
 
 <body>
-<h1>Lessened Homicide Rates Result in Fewer Incarceration Locations within Different Regions of the US</h1>
+<h1>The Higher the Homicide Rate in a Region Result in More Prisons</h1>
 <p></p>
 </body>
 
@@ -16,12 +16,14 @@
 
 <div id="vis1"></div>
 <div id="vis2"></div>
+<div id="vis3"></div>
 
 </body>
 
 <script>
     const spec1 = "geograph.json";
     const spec2 = "box-and-whisker-plot.json";
+    const spec3 = "prison-bar-graph.json";
 
     vegaEmbed("#vis1", spec1)
         // result.view provides access to the Vega View API
@@ -29,6 +31,11 @@
         .catch(console.warn);
 
     vegaEmbed("#vis2", spec2)
+        // result.view provides access to the Vega View API
+        .then(result => console.log(result))
+        .catch(console.warn);
+
+    vegaEmbed("#vis3", spec3)
         // result.view provides access to the Vega View API
         .then(result => console.log(result))
         .catch(console.warn);

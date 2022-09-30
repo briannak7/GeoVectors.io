@@ -1,0 +1,27 @@
+[
+  {
+    "REGION": "SOUTHEAST",
+    "PRISONS": 1642,
+    "C": "#FFAE03"
+  },
+  {
+    "REGION": "MIDWEST",
+    "PRISONS": 1421,
+    "C": "rgb(4,86,168)"
+  },
+  {
+    "REGION": "WEST",
+    "PRISONS": 921,
+    "C": "#853d8f"
+  },
+  {
+    "REGION": "SOUTHWEST",
+    "PRISONS": 764,
+    "C": "#BA0000"
+  },
+  {
+  "REGION": "NORTHEAST",
+  "PRISONS": 645,
+  "C": "#465154"
+  }
+]
