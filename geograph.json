@@ -46,8 +46,8 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 25},
-        "color": {"value": "#54818c"}
+        "size": {"value": 20},
+        "color": {"value": "#6992b8"}
       }
     },
     {
