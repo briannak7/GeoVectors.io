@@ -1,0 +1,64 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "height": 225,
+  "width": 225,
+  "padding": 40,
+  "title":{
+    "text": "Homicide Rates by Region",
+    "subtitle": "2005-2020",
+    "fontSize": 17,
+    "offset": 20
+  },
+
+  "data":
+    {
+      "url": "homicide-rate-2005-2020.json"
+    },
+
+  "mark": {
+    "type": "boxplot",
+    "extent": "min-max",
+    "size": 22
+  },
+  "encoding": {
+    "y": {
+      "field": "GROUP",
+      "type": "nominal",
+      "title": "Region",
+      "sort":["SOUTHEAST", "MIDWEST", "WEST", "SOUTHWEST", "NORTHEAST"],
+      "axis": {
+        "titleFontWeight": "100",
+        "titleFontSize": 15,
+        "titlePadding": 15,
+        "labelFontSize": 11
+      }
+    },
+    "color": {
+      "field": "GROUP",
+      "type": "nominal",
+      "legend": null,
+      "scale":{
+        "range":["rgb(4,86,168)","#465154","#FFAE03","#BA0000","#853d8f"]
+      }
+    },
+    "x": {
+      "field": "RATE",
+      "title": "Rate per 100,000",
+      "type": "quantitative",
+      "scale": {"zero": false},
+      "axis": {
+        "titleFontWeight": "100",
+        "titleFontSize": 15,
+        "titlePadding": 15,
+        "labelFontSize": 11,
+        "tickCount": 5
+      }
+    }
+  },
+  "config": {
+    "background": "#f8f8f8",
+    "view": {
+      "stroke": "transparent"
+    }
+  }
+}

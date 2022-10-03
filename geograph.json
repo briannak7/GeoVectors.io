@@ -1,11 +1,12 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 600,
-  "height": 400,
-  "padding": 12,
+  "width": 650,
+  "height": 425,
+  "padding": 0,
   "title": {
+    "offset": -35,
     "text": "US Prison Locations circa 2015",
-    "fontSize": 20
+    "fontSize": 18
   },
 
   "layer": [
@@ -63,12 +64,93 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2.5},
         "color": {
           "value": "#853d8f"
         }
       }
     },
+    {
+      "data": {
+        "url": "hawaii.json"
+      },
+      "mark": "line",
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "size": {"value": 1.5},
+        "color": {
+          "value": "#853d8f"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "maui.json"
+      },
+      "mark": "line",
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "size": {"value": 1.5},
+        "color": {
+          "value": "#853d8f"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "kauai.json"
+      },
+      "mark": "line",
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "size": {"value": 1.5},
+        "color": {
+          "value": "#853d8f"
+        }
+      }
+    },
+    {
+      "data": {
+        "url": "honolulu.json"
+      },
+      "mark": "line",
+      "encoding": {
+        "longitude": {
+          "field": "longitude",
+          "type": "quantitative"
+        },
+        "latitude": {
+          "field": "latitude",
+          "type": "quantitative"
+        },
+        "size": {"value": 1.5},
+        "color": {
+          "value": "#853d8f"
+        }
+      }
+    },
+
     {
       "data": {
         "url": "alaska.json",
@@ -86,7 +168,7 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2},
         "color": {
           "value": "#853d8f"
         }
@@ -106,7 +188,7 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2.5},
         "color": {
           "value": "rgb(4,86,168)"
         }
@@ -126,7 +208,7 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2.5},
         "color": {
           "value": "#465154"
         }
@@ -146,7 +228,7 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2.5},
         "color": {
           "value": "#BA0000"
         }
@@ -166,7 +248,7 @@
           "field": "latitude",
           "type": "quantitative"
         },
-        "size": {"value": 3},
+        "size": {"value": 2.5},
         "color": {
           "value": "#FFAE03"
         }
@@ -186,13 +268,14 @@
           "field": "id",
           "type": "nominal",
           "legend": {
-            "padding": -15,
+            "padding": 0,
             "labelOffset": 5,
             "title": null,
             "orient": "bottom-right",
-            "symbolStrokeWidth": 6,
-            "symbolSize": 1000,
-            "offset": 0
+            "symbolStrokeWidth": 5,
+            "symbolSize": 800,
+            "offset": -30,
+            "labelFontSize": 12
           },
           "scale": {
             "domain": [
@@ -213,5 +296,8 @@
         }
       }
     }
-  ]
+  ],
+  "config": {
+    "background": "#f8f8f8"
+  }
 }

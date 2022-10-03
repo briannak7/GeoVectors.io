@@ -1,0 +1,3602 @@
+[
+  {
+    "YEAR": 2005,
+    "STATE": "CA",
+    "RATE": 6.9,
+    "DEATHS": "2,540",
+    "URL": "/nchs/pressroom/states/california/california.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "CO",
+    "RATE": 3.8,
+    "DEATHS": "182",
+    "URL": "/nchs/pressroom/states/colorado/colorado.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ID",
+    "RATE": 3.2,
+    "DEATHS": "45",
+    "URL": "/nchs/pressroom/states/idaho/idaho.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MT",
+    "RATE": 3.4,
+    "DEATHS": "33",
+    "URL": "/nchs/pressroom/states/montana/montana.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NV",
+    "RATE": 7.8,
+    "DEATHS": "190",
+    "URL": "/nchs/pressroom/states/nevada/nevada.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OR",
+    "RATE": 2.9,
+    "DEATHS": "102",
+    "URL": "/nchs/pressroom/states/oregon/oregon.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "UT",
+    "RATE": 2.4,
+    "DEATHS": "63",
+    "URL": "/nchs/pressroom/states/utah/utah.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WA",
+    "RATE": 3.6,
+    "DEATHS": "231",
+    "URL": "/nchs/pressroom/states/washington/washington.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WY",
+    "RATE": 0,
+    "DEATHS": "16",
+    "URL": "/nchs/pressroom/states/wyoming/wyoming.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AK",
+    "RATE": 5.2,
+    "DEATHS": "37",
+    "URL": "/nchs/pressroom/states/alaska/alaska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AL",
+    "RATE": 9.6,
+    "DEATHS": "433",
+    "URL": "/nchs/pressroom/states/alabama/alabama.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AR",
+    "RATE": 8,
+    "DEATHS": "219",
+    "URL": "/nchs/pressroom/states/arkansas/arkansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "AZ",
+    "RATE": 9,
+    "DEATHS": "532",
+    "URL": "/nchs/pressroom/states/arizona/arizona.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "CT",
+    "RATE": 3.2,
+    "DEATHS": "107",
+    "URL": "/nchs/pressroom/states/connecticut/connecticut.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "DE",
+    "RATE": 6.6,
+    "DEATHS": "55",
+    "URL": "/nchs/pressroom/states/delaware/delaware.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "FL",
+    "RATE": 5.8,
+    "DEATHS": "998",
+    "URL": "/nchs/pressroom/states/florida/florida.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "GA",
+    "RATE": 7.1,
+    "DEATHS": "649",
+    "URL": "/nchs/pressroom/states/georgia/georgia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "HI",
+    "RATE": 1.9,
+    "DEATHS": "25",
+    "URL": "/nchs/pressroom/states/hawaii/hawaii.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IA",
+    "RATE": 1.6,
+    "DEATHS": "44",
+    "URL": "/nchs/pressroom/states/iowa/iowa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IL",
+    "RATE": 6.8,
+    "DEATHS": "866",
+    "URL": "/nchs/pressroom/states/illinois/illinois.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "IN",
+    "RATE": 5.9,
+    "DEATHS": "368",
+    "URL": "/nchs/pressroom/states/indiana/indiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "KS",
+    "RATE": 3.9,
+    "DEATHS": "106",
+    "URL": "/nchs/pressroom/states/kansas/kansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "KY",
+    "RATE": 5.4,
+    "DEATHS": "222",
+    "URL": "/nchs/pressroom/states/kentucky/kentucky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "LA",
+    "RATE": 12.8,
+    "DEATHS": "592",
+    "URL": "/nchs/pressroom/states/louisiana/louisiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MA",
+    "RATE": 2.8,
+    "DEATHS": "178",
+    "URL": "/nchs/pressroom/states/massachusetts/massachusetts.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MD",
+    "RATE": 10.4,
+    "DEATHS": "576",
+    "URL": "/nchs/pressroom/states/maryland/maryland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ME",
+    "RATE": 1.7,
+    "DEATHS": "22",
+    "URL": "/nchs/pressroom/states/maine/maine.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MI",
+    "RATE": 6.9,
+    "DEATHS": "677",
+    "URL": "/nchs/pressroom/states/michigan/michigan.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MN",
+    "RATE": 2.7,
+    "DEATHS": "139",
+    "URL": "/nchs/pressroom/states/minnesota/minnesota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MO",
+    "RATE": 7.3,
+    "DEATHS": "417",
+    "URL": "/nchs/pressroom/states/missouri/missouri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "MS",
+    "RATE": 9,
+    "DEATHS": "254",
+    "URL": "/nchs/pressroom/states/mississippi/mississippi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NC",
+    "RATE": 7.6,
+    "DEATHS": "661",
+    "URL": "/nchs/pressroom/states/northcarolina/northcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "ND",
+    "RATE": 0,
+    "DEATHS": "11",
+    "URL": "/nchs/pressroom/states/northdakota/northdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NE",
+    "RATE": 2.5,
+    "DEATHS": "44",
+    "URL": "/nchs/pressroom/states/nebraska/nebraska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/newhampshire/newhampshire.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NJ",
+    "RATE": 5.1,
+    "DEATHS": "427",
+    "URL": "/nchs/pressroom/states/newjersey/newjersey.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NM",
+    "RATE": 7.9,
+    "DEATHS": "152",
+    "URL": "/nchs/pressroom/states/newmexico/newmexico.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "NY",
+    "RATE": 4.7,
+    "DEATHS": "901",
+    "URL": "/nchs/pressroom/states/newyork/newyork.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OH",
+    "RATE": 5.6,
+    "DEATHS": "630",
+    "URL": "/nchs/pressroom/states/ohio/ohio.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "OK",
+    "RATE": 6.1,
+    "DEATHS": "214",
+    "URL": "/nchs/pressroom/states/oklahoma/oklahoma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "PA",
+    "RATE": 6.3,
+    "DEATHS": "749",
+    "URL": "/nchs/pressroom/states/pennsylvania/pennsylvania.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "RI",
+    "RATE": 3.1,
+    "DEATHS": "32",
+    "URL": "/nchs/pressroom/states/rhodeisland/rhodeisland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "SC",
+    "RATE": 7.9,
+    "DEATHS": "337",
+    "URL": "/nchs/pressroom/states/southcarolina/southcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "SD",
+    "RATE": 2.9,
+    "DEATHS": "22",
+    "URL": "/nchs/pressroom/states/southdakota/southdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "TN",
+    "RATE": 8.3,
+    "DEATHS": "495",
+    "URL": "/nchs/pressroom/states/tenessee/tennessee.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "TX",
+    "RATE": 6.5,
+    "DEATHS": "1,501",
+    "URL": "/nchs/pressroom/states/texas/texas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "VA",
+    "RATE": 6.4,
+    "DEATHS": "490",
+    "URL": "/nchs/pressroom/states/virginia/virginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "12",
+    "URL": "/nchs/pressroom/states/vermont/vermont.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WI",
+    "RATE": 4.3,
+    "DEATHS": "236",
+    "URL": "/nchs/pressroom/states/wisconsin/wisconsin.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2005,
+    "STATE": "WV",
+    "RATE": 5.4,
+    "DEATHS": "93",
+    "URL": "/nchs/pressroom/states/westvirginia/westvirginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CA",
+    "RATE": 4.6,
+    "DEATHS": "1,813",
+    "URL": "/nchs/pressroom/states/california/california.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CO",
+    "RATE": 3.3,
+    "DEATHS": "177",
+    "URL": "/nchs/pressroom/states/colorado/colorado.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ID",
+    "RATE": 2.4,
+    "DEATHS": "36",
+    "URL": "/nchs/pressroom/states/idaho/idaho.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MT",
+    "RATE": 2.9,
+    "DEATHS": "30",
+    "URL": "/nchs/pressroom/states/montana/montana.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NV",
+    "RATE": 6.3,
+    "DEATHS": "176",
+    "URL": "/nchs/pressroom/states/nevada/nevada.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OR",
+    "RATE": 2.4,
+    "DEATHS": "99",
+    "URL": "/nchs/pressroom/states/oregon/oregon.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "UT",
+    "RATE": 2,
+    "DEATHS": "61",
+    "URL": "/nchs/pressroom/states/utah/utah.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WA",
+    "RATE": 3.1,
+    "DEATHS": "211",
+    "URL": "/nchs/pressroom/states/washington/washington.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WY",
+    "RATE": 4.4,
+    "DEATHS": "24",
+    "URL": "/nchs/pressroom/states/wyoming/wyoming.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AK",
+    "RATE": 4.7,
+    "DEATHS": "37",
+    "URL": "/nchs/pressroom/states/alaska/alaska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AL",
+    "RATE": 8.1,
+    "DEATHS": "374",
+    "URL": "/nchs/pressroom/states/alabama/alabama.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AR",
+    "RATE": 7.7,
+    "DEATHS": "217",
+    "URL": "/nchs/pressroom/states/arkansas/arkansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "AZ",
+    "RATE": 5,
+    "DEATHS": "322",
+    "URL": "/nchs/pressroom/states/arizona/arizona.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "CT",
+    "RATE": 2.9,
+    "DEATHS": "100",
+    "URL": "/nchs/pressroom/states/connecticut/connecticut.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "DE",
+    "RATE": 6.6,
+    "DEATHS": "57",
+    "URL": "/nchs/pressroom/states/delaware/delaware.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "FL",
+    "RATE": 6.2,
+    "DEATHS": "1,159",
+    "URL": "/nchs/pressroom/states/florida/florida.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "GA",
+    "RATE": 6.6,
+    "DEATHS": "658",
+    "URL": "/nchs/pressroom/states/georgia/georgia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "HI",
+    "RATE": 2.2,
+    "DEATHS": "30",
+    "URL": "/nchs/pressroom/states/hawaii/hawaii.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IA",
+    "RATE": 2.5,
+    "DEATHS": "78",
+    "URL": "/nchs/pressroom/states/iowa/iowa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IL",
+    "RATE": 6.2,
+    "DEATHS": "792",
+    "URL": "/nchs/pressroom/states/illinois/illinois.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "IN",
+    "RATE": 5.7,
+    "DEATHS": "364",
+    "URL": "/nchs/pressroom/states/indiana/indiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "KS",
+    "RATE": 3.6,
+    "DEATHS": "104",
+    "URL": "/nchs/pressroom/states/kansas/kansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "KY",
+    "RATE": 4.7,
+    "DEATHS": "203",
+    "URL": "/nchs/pressroom/states/kentucky/kentucky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "LA",
+    "RATE": 11.7,
+    "DEATHS": "538",
+    "URL": "/nchs/pressroom/states/louisiana/louisiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MA",
+    "RATE": 2,
+    "DEATHS": "133",
+    "URL": "/nchs/pressroom/states/massachusetts/massachusetts.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MD",
+    "RATE": 6.7,
+    "DEATHS": "387",
+    "URL": "/nchs/pressroom/states/maryland/maryland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ME",
+    "RATE": 2,
+    "DEATHS": "23",
+    "URL": "/nchs/pressroom/states/maine/maine.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MI",
+    "RATE": 6.3,
+    "DEATHS": "589",
+    "URL": "/nchs/pressroom/states/michigan/michigan.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MN",
+    "RATE": 1.9,
+    "DEATHS": "101",
+    "URL": "/nchs/pressroom/states/minnesota/minnesota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MO",
+    "RATE": 7.5,
+    "DEATHS": "441",
+    "URL": "/nchs/pressroom/states/missouri/missouri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "MS",
+    "RATE": 11.4,
+    "DEATHS": "332",
+    "URL": "/nchs/pressroom/states/mississippi/mississippi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NC",
+    "RATE": 5.6,
+    "DEATHS": "551",
+    "URL": "/nchs/pressroom/states/northcarolina/northcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "ND",
+    "RATE": 0,
+    "DEATHS": "15",
+    "URL": "/nchs/pressroom/states/northdakota/northdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NE",
+    "RATE": 3.4,
+    "DEATHS": "63",
+    "URL": "/nchs/pressroom/states/nebraska/nebraska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "17",
+    "URL": "/nchs/pressroom/states/newhampshire/newhampshire.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NJ",
+    "RATE": 4.4,
+    "DEATHS": "372",
+    "URL": "/nchs/pressroom/states/newjersey/newjersey.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NM",
+    "RATE": 6.8,
+    "DEATHS": "135",
+    "URL": "/nchs/pressroom/states/newmexico/newmexico.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "NY",
+    "RATE": 3.4,
+    "DEATHS": "662",
+    "URL": "/nchs/pressroom/states/newyork/newyork.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OH",
+    "RATE": 5.2,
+    "DEATHS": "578",
+    "URL": "/nchs/pressroom/states/ohio/ohio.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "OK",
+    "RATE": 6.6,
+    "DEATHS": "250",
+    "URL": "/nchs/pressroom/states/oklahoma/oklahoma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "PA",
+    "RATE": 5.2,
+    "DEATHS": "620",
+    "URL": "/nchs/pressroom/states/pennsylvania/pennsylvania.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "RI",
+    "RATE": 2.5,
+    "DEATHS": "27",
+    "URL": "/nchs/pressroom/states/rhodeisland/rhodeisland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "SC",
+    "RATE": 7.6,
+    "DEATHS": "363",
+    "URL": "/nchs/pressroom/states/southcarolina/southcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "SD",
+    "RATE": 3.1,
+    "DEATHS": "26",
+    "URL": "/nchs/pressroom/states/southdakota/southdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "TN",
+    "RATE": 6.5,
+    "DEATHS": "417",
+    "URL": "/nchs/pressroom/states/tenessee/tennessee.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "TX",
+    "RATE": 5.2,
+    "DEATHS": "1,389",
+    "URL": "/nchs/pressroom/states/texas/texas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "VA",
+    "RATE": 4.1,
+    "DEATHS": "339",
+    "URL": "/nchs/pressroom/states/virginia/virginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "16",
+    "URL": "/nchs/pressroom/states/vermont/vermont.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WI",
+    "RATE": 3,
+    "DEATHS": "166",
+    "URL": "/nchs/pressroom/states/wisconsin/wisconsin.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2014,
+    "STATE": "WV",
+    "RATE": 5.9,
+    "DEATHS": "103",
+    "URL": "/nchs/pressroom/states/westvirginia/westvirginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CA",
+    "RATE": 5,
+    "DEATHS": "1,987",
+    "URL": "/nchs/pressroom/states/california/california.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CO",
+    "RATE": 3.7,
+    "DEATHS": "206",
+    "URL": "/nchs/pressroom/states/colorado/colorado.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ID",
+    "RATE": 2,
+    "DEATHS": "33",
+    "URL": "/nchs/pressroom/states/idaho/idaho.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MT",
+    "RATE": 4,
+    "DEATHS": "38",
+    "URL": "/nchs/pressroom/states/montana/montana.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NV",
+    "RATE": 6.7,
+    "DEATHS": "191",
+    "URL": "/nchs/pressroom/states/nevada/nevada.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OR",
+    "RATE": 3.4,
+    "DEATHS": "138",
+    "URL": "/nchs/pressroom/states/oregon/oregon.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "UT",
+    "RATE": 2,
+    "DEATHS": "60",
+    "URL": "/nchs/pressroom/states/utah/utah.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WA",
+    "RATE": 3.4,
+    "DEATHS": "239",
+    "URL": "/nchs/pressroom/states/washington/washington.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WY",
+    "RATE": 0,
+    "DEATHS": "17",
+    "URL": "/nchs/pressroom/states/wyoming/wyoming.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AK",
+    "RATE": 8,
+    "DEATHS": "62",
+    "URL": "/nchs/pressroom/states/alaska/alaska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AL",
+    "RATE": 10.2,
+    "DEATHS": "473",
+    "URL": "/nchs/pressroom/states/alabama/alabama.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AR",
+    "RATE": 7.4,
+    "DEATHS": "217",
+    "URL": "/nchs/pressroom/states/arkansas/arkansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "AZ",
+    "RATE": 5.5,
+    "DEATHS": "364",
+    "URL": "/nchs/pressroom/states/arizona/arizona.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "CT",
+    "RATE": 3.6,
+    "DEATHS": "124",
+    "URL": "/nchs/pressroom/states/connecticut/connecticut.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "DE",
+    "RATE": 7.5,
+    "DEATHS": "65",
+    "URL": "/nchs/pressroom/states/delaware/delaware.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "FL",
+    "RATE": 6.3,
+    "DEATHS": "1,208",
+    "URL": "/nchs/pressroom/states/florida/florida.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "GA",
+    "RATE": 7.3,
+    "DEATHS": "738",
+    "URL": "/nchs/pressroom/states/georgia/georgia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "HI",
+    "RATE": 2.2,
+    "DEATHS": "31",
+    "URL": "/nchs/pressroom/states/hawaii/hawaii.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IA",
+    "RATE": 2.5,
+    "DEATHS": "73",
+    "URL": "/nchs/pressroom/states/iowa/iowa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IL",
+    "RATE": 6.9,
+    "DEATHS": "863",
+    "URL": "/nchs/pressroom/states/illinois/illinois.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "IN",
+    "RATE": 6,
+    "DEATHS": "389",
+    "URL": "/nchs/pressroom/states/indiana/indiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "KS",
+    "RATE": 4.7,
+    "DEATHS": "132",
+    "URL": "/nchs/pressroom/states/kansas/kansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "KY",
+    "RATE": 5.8,
+    "DEATHS": "250",
+    "URL": "/nchs/pressroom/states/kentucky/kentucky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "LA",
+    "RATE": 12.4,
+    "DEATHS": "569",
+    "URL": "/nchs/pressroom/states/louisiana/louisiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MA",
+    "RATE": 2.1,
+    "DEATHS": "144",
+    "URL": "/nchs/pressroom/states/massachusetts/massachusetts.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MD",
+    "RATE": 10.3,
+    "DEATHS": "596",
+    "URL": "/nchs/pressroom/states/maryland/maryland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ME",
+    "RATE": 1.7,
+    "DEATHS": "22",
+    "URL": "/nchs/pressroom/states/maine/maine.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MI",
+    "RATE": 6.4,
+    "DEATHS": "597",
+    "URL": "/nchs/pressroom/states/michigan/michigan.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MN",
+    "RATE": 2.8,
+    "DEATHS": "147",
+    "URL": "/nchs/pressroom/states/minnesota/minnesota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MO",
+    "RATE": 9.6,
+    "DEATHS": "547",
+    "URL": "/nchs/pressroom/states/missouri/missouri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "MS",
+    "RATE": 11.3,
+    "DEATHS": "325",
+    "URL": "/nchs/pressroom/states/mississippi/mississippi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NC",
+    "RATE": 6.1,
+    "DEATHS": "593",
+    "URL": "/nchs/pressroom/states/northcarolina/northcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "ND",
+    "RATE": 3.1,
+    "DEATHS": "22",
+    "URL": "/nchs/pressroom/states/northdakota/northdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NE",
+    "RATE": 4,
+    "DEATHS": "75",
+    "URL": "/nchs/pressroom/states/nebraska/nebraska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "18",
+    "URL": "/nchs/pressroom/states/newhampshire/newhampshire.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NJ",
+    "RATE": 4.5,
+    "DEATHS": "388",
+    "URL": "/nchs/pressroom/states/newjersey/newjersey.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NM",
+    "RATE": 8,
+    "DEATHS": "157",
+    "URL": "/nchs/pressroom/states/newmexico/newmexico.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "NY",
+    "RATE": 3.4,
+    "DEATHS": "671",
+    "URL": "/nchs/pressroom/states/newyork/newyork.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OH",
+    "RATE": 6,
+    "DEATHS": "669",
+    "URL": "/nchs/pressroom/states/ohio/ohio.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "OK",
+    "RATE": 8.5,
+    "DEATHS": "324",
+    "URL": "/nchs/pressroom/states/oklahoma/oklahoma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "PA",
+    "RATE": 5.6,
+    "DEATHS": "673",
+    "URL": "/nchs/pressroom/states/pennsylvania/pennsylvania.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "RI",
+    "RATE": 2.8,
+    "DEATHS": "28",
+    "URL": "/nchs/pressroom/states/rhodeisland/rhodeisland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "SC",
+    "RATE": 9.5,
+    "DEATHS": "448",
+    "URL": "/nchs/pressroom/states/southcarolina/southcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "SD",
+    "RATE": 4.2,
+    "DEATHS": "35",
+    "URL": "/nchs/pressroom/states/southdakota/southdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "TN",
+    "RATE": 7.2,
+    "DEATHS": "460",
+    "URL": "/nchs/pressroom/states/tenessee/tennessee.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "TX",
+    "RATE": 5.6,
+    "DEATHS": "1,538",
+    "URL": "/nchs/pressroom/states/texas/texas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "VA",
+    "RATE": 4.5,
+    "DEATHS": "374",
+    "URL": "/nchs/pressroom/states/virginia/virginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "16",
+    "URL": "/nchs/pressroom/states/vermont/vermont.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WI",
+    "RATE": 4.5,
+    "DEATHS": "243",
+    "URL": "/nchs/pressroom/states/wisconsin/wisconsin.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2015,
+    "STATE": "WV",
+    "RATE": 4.5,
+    "DEATHS": "80",
+    "URL": "/nchs/pressroom/states/westvirginia/westvirginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CA",
+    "RATE": 5.3,
+    "DEATHS": "2,074",
+    "URL": "/nchs/pressroom/states/california/california.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CO",
+    "RATE": 4.3,
+    "DEATHS": "235",
+    "URL": "/nchs/pressroom/states/colorado/colorado.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ID",
+    "RATE": 1.9,
+    "DEATHS": "30",
+    "URL": "/nchs/pressroom/states/idaho/idaho.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MT",
+    "RATE": 4.3,
+    "DEATHS": "42",
+    "URL": "/nchs/pressroom/states/montana/montana.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NV",
+    "RATE": 7.4,
+    "DEATHS": "211",
+    "URL": "/nchs/pressroom/states/nevada/nevada.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OR",
+    "RATE": 3.3,
+    "DEATHS": "129",
+    "URL": "/nchs/pressroom/states/oregon/oregon.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "UT",
+    "RATE": 2.5,
+    "DEATHS": "80",
+    "URL": "/nchs/pressroom/states/utah/utah.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WA",
+    "RATE": 2.9,
+    "DEATHS": "216",
+    "URL": "/nchs/pressroom/states/washington/washington.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WY",
+    "RATE": 0,
+    "DEATHS": "17",
+    "URL": "/nchs/pressroom/states/wyoming/wyoming.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AK",
+    "RATE": 7.3,
+    "DEATHS": "54",
+    "URL": "/nchs/pressroom/states/alaska/alaska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AL",
+    "RATE": 11.8,
+    "DEATHS": "544",
+    "URL": "/nchs/pressroom/states/alabama/alabama.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AR",
+    "RATE": 8.7,
+    "DEATHS": "248",
+    "URL": "/nchs/pressroom/states/arkansas/arkansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "AZ",
+    "RATE": 6.3,
+    "DEATHS": "420",
+    "URL": "/nchs/pressroom/states/arizona/arizona.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "CT",
+    "RATE": 2.7,
+    "DEATHS": "88",
+    "URL": "/nchs/pressroom/states/connecticut/connecticut.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "DE",
+    "RATE": 7,
+    "DEATHS": "63",
+    "URL": "/nchs/pressroom/states/delaware/delaware.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "FL",
+    "RATE": 6.8,
+    "DEATHS": "1,294",
+    "URL": "/nchs/pressroom/states/florida/florida.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "GA",
+    "RATE": 7.9,
+    "DEATHS": "806",
+    "URL": "/nchs/pressroom/states/georgia/georgia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "HI",
+    "RATE": 2.8,
+    "DEATHS": "39",
+    "URL": "/nchs/pressroom/states/hawaii/hawaii.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IA",
+    "RATE": 2.8,
+    "DEATHS": "85",
+    "URL": "/nchs/pressroom/states/iowa/iowa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IL",
+    "RATE": 9.2,
+    "DEATHS": "1,157",
+    "URL": "/nchs/pressroom/states/illinois/illinois.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "IN",
+    "RATE": 7.6,
+    "DEATHS": "480",
+    "URL": "/nchs/pressroom/states/indiana/indiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "KS",
+    "RATE": 5.3,
+    "DEATHS": "147",
+    "URL": "/nchs/pressroom/states/kansas/kansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "KY",
+    "RATE": 7.2,
+    "DEATHS": "302",
+    "URL": "/nchs/pressroom/states/kentucky/kentucky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "LA",
+    "RATE": 14.3,
+    "DEATHS": "648",
+    "URL": "/nchs/pressroom/states/louisiana/louisiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MA",
+    "RATE": 2.1,
+    "DEATHS": "137",
+    "URL": "/nchs/pressroom/states/massachusetts/massachusetts.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MD",
+    "RATE": 10.1,
+    "DEATHS": "579",
+    "URL": "/nchs/pressroom/states/maryland/maryland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ME",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/maine/maine.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MI",
+    "RATE": 6.7,
+    "DEATHS": "624",
+    "URL": "/nchs/pressroom/states/michigan/michigan.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MN",
+    "RATE": 2.4,
+    "DEATHS": "129",
+    "URL": "/nchs/pressroom/states/minnesota/minnesota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MO",
+    "RATE": 9.9,
+    "DEATHS": "570",
+    "URL": "/nchs/pressroom/states/missouri/missouri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "MS",
+    "RATE": 12.1,
+    "DEATHS": "345",
+    "URL": "/nchs/pressroom/states/mississippi/mississippi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NC",
+    "RATE": 7.4,
+    "DEATHS": "735",
+    "URL": "/nchs/pressroom/states/northcarolina/northcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "ND",
+    "RATE": 0,
+    "DEATHS": "17",
+    "URL": "/nchs/pressroom/states/northdakota/northdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NE",
+    "RATE": 3.3,
+    "DEATHS": "60",
+    "URL": "/nchs/pressroom/states/nebraska/nebraska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "18",
+    "URL": "/nchs/pressroom/states/newhampshire/newhampshire.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NJ",
+    "RATE": 4.6,
+    "DEATHS": "395",
+    "URL": "/nchs/pressroom/states/newjersey/newjersey.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NM",
+    "RATE": 9.4,
+    "DEATHS": "185",
+    "URL": "/nchs/pressroom/states/newmexico/newmexico.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "NY",
+    "RATE": 3.6,
+    "DEATHS": "696",
+    "URL": "/nchs/pressroom/states/newyork/newyork.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OH",
+    "RATE": 6.5,
+    "DEATHS": "721",
+    "URL": "/nchs/pressroom/states/ohio/ohio.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "OK",
+    "RATE": 8.6,
+    "DEATHS": "322",
+    "URL": "/nchs/pressroom/states/oklahoma/oklahoma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "PA",
+    "RATE": 6,
+    "DEATHS": "723",
+    "URL": "/nchs/pressroom/states/pennsylvania/pennsylvania.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "RI",
+    "RATE": 2.3,
+    "DEATHS": "25",
+    "URL": "/nchs/pressroom/states/rhodeisland/rhodeisland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "SC",
+    "RATE": 9,
+    "DEATHS": "426",
+    "URL": "/nchs/pressroom/states/southcarolina/southcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "SD",
+    "RATE": 4.7,
+    "DEATHS": "38",
+    "URL": "/nchs/pressroom/states/southdakota/southdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "TN",
+    "RATE": 8.8,
+    "DEATHS": "563",
+    "URL": "/nchs/pressroom/states/tenessee/tennessee.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "TX",
+    "RATE": 6,
+    "DEATHS": "1,669",
+    "URL": "/nchs/pressroom/states/texas/texas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "VA",
+    "RATE": 5.5,
+    "DEATHS": "455",
+    "URL": "/nchs/pressroom/states/virginia/virginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "11",
+    "URL": "/nchs/pressroom/states/vermont/vermont.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WI",
+    "RATE": 4.8,
+    "DEATHS": "256",
+    "URL": "/nchs/pressroom/states/wisconsin/wisconsin.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2016,
+    "STATE": "WV",
+    "RATE": 6.3,
+    "DEATHS": "108",
+    "URL": "/nchs/pressroom/states/westvirginia/westvirginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CA",
+    "RATE": 5.1,
+    "DEATHS": "2,022",
+    "URL": "/nchs/pressroom/states/california/california.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CO",
+    "RATE": 4.6,
+    "DEATHS": "261",
+    "URL": "/nchs/pressroom/states/colorado/colorado.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ID",
+    "RATE": 3,
+    "DEATHS": "50",
+    "URL": "/nchs/pressroom/states/idaho/idaho.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MT",
+    "RATE": 4.3,
+    "DEATHS": "42",
+    "URL": "/nchs/pressroom/states/montana/montana.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NV",
+    "RATE": 7.6,
+    "DEATHS": "221",
+    "URL": "/nchs/pressroom/states/nevada/nevada.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OR",
+    "RATE": 3.1,
+    "DEATHS": "127",
+    "URL": "/nchs/pressroom/states/oregon/oregon.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "UT",
+    "RATE": 2.6,
+    "DEATHS": "79",
+    "URL": "/nchs/pressroom/states/utah/utah.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WA",
+    "RATE": 3.6,
+    "DEATHS": "266",
+    "URL": "/nchs/pressroom/states/washington/washington.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WY",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/wyoming/wyoming.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AK",
+    "RATE": 10.6,
+    "DEATHS": "78",
+    "URL": "/nchs/pressroom/states/alaska/alaska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AL",
+    "RATE": 12.9,
+    "DEATHS": "602",
+    "URL": "/nchs/pressroom/states/alabama/alabama.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AR",
+    "RATE": 9.8,
+    "DEATHS": "278",
+    "URL": "/nchs/pressroom/states/arkansas/arkansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "AZ",
+    "RATE": 6.6,
+    "DEATHS": "441",
+    "URL": "/nchs/pressroom/states/arizona/arizona.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "CT",
+    "RATE": 3.2,
+    "DEATHS": "109",
+    "URL": "/nchs/pressroom/states/connecticut/connecticut.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "DE",
+    "RATE": 6.9,
+    "DEATHS": "63",
+    "URL": "/nchs/pressroom/states/delaware/delaware.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "FL",
+    "RATE": 6.4,
+    "DEATHS": "1,269",
+    "URL": "/nchs/pressroom/states/florida/florida.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "GA",
+    "RATE": 7.9,
+    "DEATHS": "810",
+    "URL": "/nchs/pressroom/states/georgia/georgia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "HI",
+    "RATE": 2.5,
+    "DEATHS": "35",
+    "URL": "/nchs/pressroom/states/hawaii/hawaii.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IA",
+    "RATE": 3.4,
+    "DEATHS": "104",
+    "URL": "/nchs/pressroom/states/iowa/iowa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IL",
+    "RATE": 9,
+    "DEATHS": "1,120",
+    "URL": "/nchs/pressroom/states/illinois/illinois.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "IN",
+    "RATE": 7.2,
+    "DEATHS": "456",
+    "URL": "/nchs/pressroom/states/indiana/indiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "KS",
+    "RATE": 6.5,
+    "DEATHS": "185",
+    "URL": "/nchs/pressroom/states/kansas/kansas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "KY",
+    "RATE": 7.3,
+    "DEATHS": "310",
+    "URL": "/nchs/pressroom/states/kentucky/kentucky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "LA",
+    "RATE": 14.4,
+    "DEATHS": "653",
+    "URL": "/nchs/pressroom/states/louisiana/louisiana.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MA",
+    "RATE": 2.6,
+    "DEATHS": "171",
+    "URL": "/nchs/pressroom/states/massachusetts/massachusetts.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MD",
+    "RATE": 10.2,
+    "DEATHS": "587",
+    "URL": "/nchs/pressroom/states/maryland/maryland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ME",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/maine/maine.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MI",
+    "RATE": 6.3,
+    "DEATHS": "588",
+    "URL": "/nchs/pressroom/states/michigan/michigan.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MN",
+    "RATE": 2.2,
+    "DEATHS": "122",
+    "URL": "/nchs/pressroom/states/minnesota/minnesota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MO",
+    "RATE": 11.3,
+    "DEATHS": "655",
+    "URL": "/nchs/pressroom/states/missouri/missouri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "MS",
+    "RATE": 12.7,
+    "DEATHS": "360",
+    "URL": "/nchs/pressroom/states/mississippi/mississippi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NC",
+    "RATE": 6.9,
+    "DEATHS": "679",
+    "URL": "/nchs/pressroom/states/northcarolina/northcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "ND",
+    "RATE": 0,
+    "DEATHS": "15",
+    "URL": "/nchs/pressroom/states/northdakota/northdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NE",
+    "RATE": 2.7,
+    "DEATHS": "50",
+    "URL": "/nchs/pressroom/states/nebraska/nebraska.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "17",
+    "URL": "/nchs/pressroom/states/newhampshire/newhampshire.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NJ",
+    "RATE": 4.1,
+    "DEATHS": "352",
+    "URL": "/nchs/pressroom/states/newjersey/newjersey.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NM",
+    "RATE": 8.5,
+    "DEATHS": "173",
+    "URL": "/nchs/pressroom/states/newmexico/newmexico.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "NY",
+    "RATE": 3,
+    "DEATHS": "577",
+    "URL": "/nchs/pressroom/states/newyork/newyork.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OH",
+    "RATE": 7.5,
+    "DEATHS": "828",
+    "URL": "/nchs/pressroom/states/ohio/ohio.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "OK",
+    "RATE": 8.5,
+    "DEATHS": "318",
+    "URL": "/nchs/pressroom/states/oklahoma/oklahoma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "PA",
+    "RATE": 6.6,
+    "DEATHS": "791",
+    "URL": "/nchs/pressroom/states/pennsylvania/pennsylvania.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "RI",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/rhodeisland/rhodeisland.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "SC",
+    "RATE": 9.3,
+    "DEATHS": "444",
+    "URL": "/nchs/pressroom/states/southcarolina/southcarolina.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "SD",
+    "RATE": 4.2,
+    "DEATHS": "34",
+    "URL": "/nchs/pressroom/states/southdakota/southdakota.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "TN",
+    "RATE": 8.8,
+    "DEATHS": "557",
+    "URL": "/nchs/pressroom/states/tenessee/tennessee.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "TX",
+    "RATE": 5.8,
+    "DEATHS": "1,653",
+    "URL": "/nchs/pressroom/states/texas/texas.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "VA",
+    "RATE": 5.4,
+    "DEATHS": "455",
+    "URL": "/nchs/pressroom/states/virginia/virginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "15",
+    "URL": "/nchs/pressroom/states/vermont/vermont.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WI",
+    "RATE": 3.7,
+    "DEATHS": "202",
+    "URL": "/nchs/pressroom/states/wisconsin/wisconsin.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2017,
+    "STATE": "WV",
+    "RATE": 6.5,
+    "DEATHS": "112",
+    "URL": "/nchs/pressroom/states/westvirginia/westvirginia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CA",
+    "RATE": 4.8,
+    "DEATHS": "1890",
+    "URL": "/nchs/pressroom/states/california/ca.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CO",
+    "RATE": 4.7,
+    "DEATHS": "263",
+    "URL": "/nchs/pressroom/states/colorado/co.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "ID",
+    "RATE": 2.3,
+    "DEATHS": "41",
+    "URL": "/nchs/pressroom/states/idaho/id.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MT",
+    "RATE": 4.2,
+    "DEATHS": "42",
+    "URL": "/nchs/pressroom/states/montana/mt.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NV",
+    "RATE": 7.7,
+    "DEATHS": "225",
+    "URL": "/nchs/pressroom/states/nevada/nv.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OR",
+    "RATE": 2.5,
+    "DEATHS": "102",
+    "URL": "/nchs/pressroom/states/oregon/or.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "UT",
+    "RATE": 2.2,
+    "DEATHS": "67",
+    "URL": "/nchs/pressroom/states/utah/ut.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WA",
+    "RATE": 3.7,
+    "DEATHS": "275",
+    "URL": "/nchs/pressroom/states/washington/wa.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WY",
+    "RATE": 4.1,
+    "DEATHS": "22",
+    "URL": "/nchs/pressroom/states/wyoming/wy.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AK",
+    "RATE": 7.5,
+    "DEATHS": "56",
+    "URL": "/nchs/pressroom/states/alaska/ak.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AL",
+    "RATE": 12.2,
+    "DEATHS": "568",
+    "URL": "/nchs/pressroom/states/alabama/al.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AR",
+    "RATE": 9.1,
+    "DEATHS": "264",
+    "URL": "/nchs/pressroom/states/arkansas/ar.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "AZ",
+    "RATE": 6.1,
+    "DEATHS": "420",
+    "URL": "/nchs/pressroom/states/arizona/az.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "CT",
+    "RATE": 2.8,
+    "DEATHS": "92",
+    "URL": "/nchs/pressroom/states/connecticut/ct.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "DE",
+    "RATE": 6.8,
+    "DEATHS": "57",
+    "URL": "/nchs/pressroom/states/delaware/de.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "FL",
+    "RATE": 6.6,
+    "DEATHS": "1315",
+    "URL": "/nchs/pressroom/states/florida/fl.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "GA",
+    "RATE": 7.7,
+    "DEATHS": "794",
+    "URL": "/nchs/pressroom/states/georgia/ga.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "HI",
+    "RATE": 3.1,
+    "DEATHS": "40",
+    "URL": "/nchs/pressroom/states/hawaii/hi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IA",
+    "RATE": 2.7,
+    "DEATHS": "81",
+    "URL": "/nchs/pressroom/states/iowa/ia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IL",
+    "RATE": 8,
+    "DEATHS": "994",
+    "URL": "/nchs/pressroom/states/illinois/il.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "IN",
+    "RATE": 7.4,
+    "DEATHS": "473",
+    "URL": "/nchs/pressroom/states/indiana/in.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "KS",
+    "RATE": 5.9,
+    "DEATHS": "160",
+    "URL": "/nchs/pressroom/states/kansas/ks.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "KY",
+    "RATE": 6.1,
+    "DEATHS": "258",
+    "URL": "/nchs/pressroom/states/kentucky/ky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "LA",
+    "RATE": 13.3,
+    "DEATHS": "598",
+    "URL": "/nchs/pressroom/states/louisiana/la.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MA",
+    "RATE": 2.3,
+    "DEATHS": "158",
+    "URL": "/nchs/pressroom/states/massachusetts/ma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MD",
+    "RATE": 9.3,
+    "DEATHS": "541",
+    "URL": "/nchs/pressroom/states/maryland/md.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "ME",
+    "RATE": 0,
+    "DEATHS": "19",
+    "URL": "/nchs/pressroom/states/maine/me.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MI",
+    "RATE": 6.5,
+    "DEATHS": "613",
+    "URL": "/nchs/pressroom/states/michigan/mi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MN",
+    "RATE": 2.3,
+    "DEATHS": "122",
+    "URL": "/nchs/pressroom/states/minnesota/mn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MO",
+    "RATE": 11.4,
+    "DEATHS": "658",
+    "URL": "/nchs/pressroom/states/missouri/mo.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "MS",
+    "RATE": 13.4,
+    "DEATHS": "382",
+    "URL": "/nchs/pressroom/states/mississippi/ms.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NC",
+    "RATE": 6.4,
+    "DEATHS": "647",
+    "URL": "/nchs/pressroom/states/northcarolina/nc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "ND",
+    "RATE": 2.5,
+    "DEATHS": "20",
+    "URL": "/nchs/pressroom/states/northdakota/nd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NE",
+    "RATE": 1.9,
+    "DEATHS": "35",
+    "URL": "/nchs/pressroom/states/nebraska/ne.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NH",
+    "RATE": 1.8,
+    "DEATHS": "21",
+    "URL": "/nchs/pressroom/states/newhampshire/nh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NJ",
+    "RATE": 3.7,
+    "DEATHS": "311",
+    "URL": "/nchs/pressroom/states/newjersey/nj.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NM",
+    "RATE": 10.8,
+    "DEATHS": "215",
+    "URL": "/nchs/pressroom/states/newmexico/nm.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "NY",
+    "RATE": 3.2,
+    "DEATHS": "611",
+    "URL": "/nchs/pressroom/states/newyork/ny.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OH",
+    "RATE": 6.8,
+    "DEATHS": "760",
+    "URL": "/nchs/pressroom/states/ohio/oh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "OK",
+    "RATE": 7,
+    "DEATHS": "265",
+    "URL": "/nchs/pressroom/states/oklahoma/ok.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "PA",
+    "RATE": 6.4,
+    "DEATHS": "781",
+    "URL": "/nchs/pressroom/states/pennsylvania/pa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "RI",
+    "RATE": 0,
+    "DEATHS": "16",
+    "URL": "/nchs/pressroom/states/rhodeisland/ri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "SC",
+    "RATE": 10.2,
+    "DEATHS": "481",
+    "URL": "/nchs/pressroom/states/southcarolina/sc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "SD",
+    "RATE": 3.9,
+    "DEATHS": "32",
+    "URL": "/nchs/pressroom/states/southdakota/sd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "TN",
+    "RATE": 9.2,
+    "DEATHS": "604",
+    "URL": "/nchs/pressroom/states/tennessee/tn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "TX",
+    "RATE": 5.4,
+    "DEATHS": "1557",
+    "URL": "/nchs/pressroom/states/texas/tx.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "VA",
+    "RATE": 5.1,
+    "DEATHS": "425",
+    "URL": "/nchs/pressroom/states/virginia/va.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "14",
+    "URL": "/nchs/pressroom/states/vermont/vt.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WI",
+    "RATE": 3.9,
+    "DEATHS": "204",
+    "URL": "/nchs/pressroom/states/wisconsin/wi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2018,
+    "STATE": "WV",
+    "RATE": 5.8,
+    "DEATHS": "97",
+    "URL": "/nchs/pressroom/states/westvirginia/wv.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CA",
+    "RATE": 4.5,
+    "DEATHS": "1794",
+    "URL": "/nchs/pressroom/states/california/ca.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CO",
+    "RATE": 4.3,
+    "DEATHS": "250",
+    "URL": "/nchs/pressroom/states/colorado/co.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ID",
+    "RATE": 1.7,
+    "DEATHS": "27",
+    "URL": "/nchs/pressroom/states/idaho/id.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MT",
+    "RATE": 3.7,
+    "DEATHS": "39",
+    "URL": "/nchs/pressroom/states/montana/mt.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NV",
+    "RATE": 5.5,
+    "DEATHS": "166",
+    "URL": "/nchs/pressroom/states/nevada/nv.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OR",
+    "RATE": 3,
+    "DEATHS": "126",
+    "URL": "/nchs/pressroom/states/oregon/or.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "UT",
+    "RATE": 2.6,
+    "DEATHS": "82",
+    "URL": "/nchs/pressroom/states/utah/ut.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WA",
+    "RATE": 3.2,
+    "DEATHS": "241",
+    "URL": "/nchs/pressroom/states/washington/wa.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WY",
+    "RATE": 4.4,
+    "DEATHS": "25",
+    "URL": "/nchs/pressroom/states/wyoming/wy.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AK",
+    "RATE": 10.8,
+    "DEATHS": "78",
+    "URL": "/nchs/pressroom/states/alaska/ak.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AL",
+    "RATE": 12.8,
+    "DEATHS": "587",
+    "URL": "/nchs/pressroom/states/alabama/al.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AR",
+    "RATE": 9.4,
+    "DEATHS": "270",
+    "URL": "/nchs/pressroom/states/arkansas/ar.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "AZ",
+    "RATE": 5.9,
+    "DEATHS": "414",
+    "URL": "/nchs/pressroom/states/arizona/az.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "CT",
+    "RATE": 3.1,
+    "DEATHS": "106",
+    "URL": "/nchs/pressroom/states/connecticut/ct.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "DE",
+    "RATE": 6.1,
+    "DEATHS": "53",
+    "URL": "/nchs/pressroom/states/delaware/de.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "FL",
+    "RATE": 6.7,
+    "DEATHS": "1334",
+    "URL": "/nchs/pressroom/states/florida/fl.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "GA",
+    "RATE": 8.1,
+    "DEATHS": "849",
+    "URL": "/nchs/pressroom/states/georgia/ga.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "HI",
+    "RATE": 2.5,
+    "DEATHS": "35",
+    "URL": "/nchs/pressroom/states/hawaii/hi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IA",
+    "RATE": 2.7,
+    "DEATHS": "80",
+    "URL": "/nchs/pressroom/states/iowa/ia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IL",
+    "RATE": 8.1,
+    "DEATHS": "979",
+    "URL": "/nchs/pressroom/states/illinois/il.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "IN",
+    "RATE": 7.2,
+    "DEATHS": "466",
+    "URL": "/nchs/pressroom/states/indiana/in.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "KS",
+    "RATE": 4.9,
+    "DEATHS": "137",
+    "URL": "/nchs/pressroom/states/kansas/ks.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "KY",
+    "RATE": 5.9,
+    "DEATHS": "250",
+    "URL": "/nchs/pressroom/states/kentucky/ky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "LA",
+    "RATE": 14.7,
+    "DEATHS": "650",
+    "URL": "/nchs/pressroom/states/louisiana/la.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MA",
+    "RATE": 2.3,
+    "DEATHS": "157",
+    "URL": "/nchs/pressroom/states/massachusetts/ma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MD",
+    "RATE": 10,
+    "DEATHS": "578",
+    "URL": "/nchs/pressroom/states/maryland/md.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ME",
+    "RATE": 1.8,
+    "DEATHS": "23",
+    "URL": "/nchs/pressroom/states/maine/me.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MI",
+    "RATE": 6.5,
+    "DEATHS": "612",
+    "URL": "/nchs/pressroom/states/michigan/mi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MN",
+    "RATE": 2.8,
+    "DEATHS": "154",
+    "URL": "/nchs/pressroom/states/minnesota/mn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MO",
+    "RATE": 10.8,
+    "DEATHS": "628",
+    "URL": "/nchs/pressroom/states/missouri/mo.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "MS",
+    "RATE": 15.4,
+    "DEATHS": "434",
+    "URL": "/nchs/pressroom/states/mississippi/ms.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NC",
+    "RATE": 7,
+    "DEATHS": "707",
+    "URL": "/nchs/pressroom/states/northcarolina/nc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "ND",
+    "RATE": 3.1,
+    "DEATHS": "21",
+    "URL": "/nchs/pressroom/states/northdakota/nd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NE",
+    "RATE": 3.1,
+    "DEATHS": "58",
+    "URL": "/nchs/pressroom/states/nebraska/ne.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NH",
+    "RATE": 2.8,
+    "DEATHS": "38",
+    "URL": "/nchs/pressroom/states/newhampshire/nh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NJ",
+    "RATE": 3.4,
+    "DEATHS": "287",
+    "URL": "/nchs/pressroom/states/newjersey/nj.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NM",
+    "RATE": 11.8,
+    "DEATHS": "230",
+    "URL": "/nchs/pressroom/states/newmexico/nm.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "NY",
+    "RATE": 3.2,
+    "DEATHS": "601",
+    "URL": "/nchs/pressroom/states/newyork/ny.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OH",
+    "RATE": 6.6,
+    "DEATHS": "724",
+    "URL": "/nchs/pressroom/states/ohio/oh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "OK",
+    "RATE": 8.8,
+    "DEATHS": "333",
+    "URL": "/nchs/pressroom/states/oklahoma/ok.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "PA",
+    "RATE": 6.1,
+    "DEATHS": "722",
+    "URL": "/nchs/pressroom/states/pennsylvania/pa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "RI",
+    "RATE": 2.5,
+    "DEATHS": "23",
+    "URL": "/nchs/pressroom/states/rhodeisland/ri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "SC",
+    "RATE": 11,
+    "DEATHS": "527",
+    "URL": "/nchs/pressroom/states/southcarolina/sc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "SD",
+    "RATE": 3.6,
+    "DEATHS": "29",
+    "URL": "/nchs/pressroom/states/southdakota/sd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "TN",
+    "RATE": 9.2,
+    "DEATHS": "596",
+    "URL": "/nchs/pressroom/states/tennessee/tn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "TX",
+    "RATE": 5.9,
+    "DEATHS": "1694",
+    "URL": "/nchs/pressroom/states/texas/tx.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "VA",
+    "RATE": 5.3,
+    "DEATHS": "436",
+    "URL": "/nchs/pressroom/states/virginia/va.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "11",
+    "URL": "/nchs/pressroom/states/vermont/vt.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WI",
+    "RATE": 4.2,
+    "DEATHS": "226",
+    "URL": "/nchs/pressroom/states/wisconsin/wi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2019,
+    "STATE": "WV",
+    "RATE": 5.7,
+    "DEATHS": "92",
+    "URL": "/nchs/pressroom/states/westvirginia/wv.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CA",
+    "RATE": 6.1,
+    "DEATHS": "2368",
+    "URL": "/nchs/pressroom/states/california/ca.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CO",
+    "RATE": 5.8,
+    "DEATHS": "336",
+    "URL": "/nchs/pressroom/states/colorado/co.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ID",
+    "RATE": 2.5,
+    "DEATHS": "42",
+    "URL": "/nchs/pressroom/states/idaho/id.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MT",
+    "RATE": 6.6,
+    "DEATHS": "65",
+    "URL": "/nchs/pressroom/states/montana/mt.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NV",
+    "RATE": 7.3,
+    "DEATHS": "217",
+    "URL": "/nchs/pressroom/states/nevada/nv.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OR",
+    "RATE": 3.8,
+    "DEATHS": "157",
+    "URL": "/nchs/pressroom/states/oregon/or.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "UT",
+    "RATE": 2.9,
+    "DEATHS": "95",
+    "URL": "/nchs/pressroom/states/utah/ut.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WA",
+    "RATE": 4.2,
+    "DEATHS": "322",
+    "URL": "/nchs/pressroom/states/washington/wa.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WY",
+    "RATE": 4.9,
+    "DEATHS": "25",
+    "URL": "/nchs/pressroom/states/wyoming/wy.htm",
+    "GROUP": "WEST",
+    "C": "green"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AK",
+    "RATE": 7.3,
+    "DEATHS": "55",
+    "URL": "/nchs/pressroom/states/alaska/ak.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AL",
+    "RATE": 14.2,
+    "DEATHS": "654",
+    "URL": "/nchs/pressroom/states/alabama/al.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AR",
+    "RATE": 13,
+    "DEATHS": "371",
+    "URL": "/nchs/pressroom/states/arkansas/ar.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "AZ",
+    "RATE": 7.5,
+    "DEATHS": "525",
+    "URL": "/nchs/pressroom/states/arizona/az.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "CT",
+    "RATE": 4.6,
+    "DEATHS": "152",
+    "URL": "/nchs/pressroom/states/connecticut/ct.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "DE",
+    "RATE": 9.9,
+    "DEATHS": "86",
+    "URL": "/nchs/pressroom/states/delaware/de.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "FL",
+    "RATE": 7.8,
+    "DEATHS": "1530",
+    "URL": "/nchs/pressroom/states/florida/fl.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "GA",
+    "RATE": 10.5,
+    "DEATHS": "1093",
+    "URL": "/nchs/pressroom/states/georgia/ga.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "HI",
+    "RATE": 3.3,
+    "DEATHS": "46",
+    "URL": "/nchs/pressroom/states/hawaii/hi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IA",
+    "RATE": 3.6,
+    "DEATHS": "106",
+    "URL": "/nchs/pressroom/states/iowa/ia.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IL",
+    "RATE": 11.2,
+    "DEATHS": "1353",
+    "URL": "/nchs/pressroom/states/illinois/il.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "IN",
+    "RATE": 9.7,
+    "DEATHS": "620",
+    "URL": "/nchs/pressroom/states/indiana/in.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "KS",
+    "RATE": 7,
+    "DEATHS": "195",
+    "URL": "/nchs/pressroom/states/kansas/ks.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "KY",
+    "RATE": 9.5,
+    "DEATHS": "404",
+    "URL": "/nchs/pressroom/states/kentucky/ky.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "LA",
+    "RATE": 19.9,
+    "DEATHS": "873",
+    "URL": "/nchs/pressroom/states/louisiana/la.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MA",
+    "RATE": 2.7,
+    "DEATHS": "183",
+    "URL": "/nchs/pressroom/states/massachusetts/ma.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MD",
+    "RATE": 11.4,
+    "DEATHS": "649",
+    "URL": "/nchs/pressroom/states/maryland/md.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ME",
+    "RATE": 1.6,
+    "DEATHS": "21",
+    "URL": "/nchs/pressroom/states/maine/me.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MI",
+    "RATE": 8.7,
+    "DEATHS": "811",
+    "URL": "/nchs/pressroom/states/michigan/mi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MN",
+    "RATE": 3.6,
+    "DEATHS": "198",
+    "URL": "/nchs/pressroom/states/minnesota/mn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MO",
+    "RATE": 14,
+    "DEATHS": "803",
+    "URL": "/nchs/pressroom/states/missouri/mo.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "MS",
+    "RATE": 20.5,
+    "DEATHS": "576",
+    "URL": "/nchs/pressroom/states/mississippi/ms.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NC",
+    "RATE": 8.6,
+    "DEATHS": "884",
+    "URL": "/nchs/pressroom/states/northcarolina/nc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "ND",
+    "RATE": 4.4,
+    "DEATHS": "30",
+    "URL": "/nchs/pressroom/states/northdakota/nd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NE",
+    "RATE": 4.1,
+    "DEATHS": "76",
+    "URL": "/nchs/pressroom/states/nebraska/ne.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NH",
+    "RATE": 0,
+    "DEATHS": "14",
+    "URL": "/nchs/pressroom/states/newhampshire/nh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NJ",
+    "RATE": 4.3,
+    "DEATHS": "362",
+    "URL": "/nchs/pressroom/states/newjersey/nj.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NM",
+    "RATE": 10.8,
+    "DEATHS": "216",
+    "URL": "/nchs/pressroom/states/newmexico/nm.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "NY",
+    "RATE": 4.7,
+    "DEATHS": "875",
+    "URL": "/nchs/pressroom/states/newyork/ny.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OH",
+    "RATE": 9.1,
+    "DEATHS": "1004",
+    "URL": "/nchs/pressroom/states/ohio/oh.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "OK",
+    "RATE": 9,
+    "DEATHS": "342",
+    "URL": "/nchs/pressroom/states/oklahoma/ok.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "PA",
+    "RATE": 8.5,
+    "DEATHS": "994",
+    "URL": "/nchs/pressroom/states/pennsylvania/pa.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "RI",
+    "RATE": 3,
+    "DEATHS": "29",
+    "URL": "/nchs/pressroom/states/rhodeisland/ri.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "SC",
+    "RATE": 12.7,
+    "DEATHS": "622",
+    "URL": "/nchs/pressroom/states/southcarolina/sc.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "SD",
+    "RATE": 6.5,
+    "DEATHS": "52",
+    "URL": "/nchs/pressroom/states/southdakota/sd.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "TN",
+    "RATE": 11.5,
+    "DEATHS": "753",
+    "URL": "/nchs/pressroom/states/tennessee/tn.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "TX",
+    "RATE": 7.6,
+    "DEATHS": "2212",
+    "URL": "/nchs/pressroom/states/texas/tx.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "VA",
+    "RATE": 6.4,
+    "DEATHS": "531",
+    "URL": "/nchs/pressroom/states/virginia/va.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "VT",
+    "RATE": 0,
+    "DEATHS": "14",
+    "URL": "/nchs/pressroom/states/vermont/vt.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WI",
+    "RATE": 6.1,
+    "DEATHS": "334",
+    "URL": "/nchs/pressroom/states/wisconsin/wi.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  },
+  {
+    "YEAR": 2020,
+    "STATE": "WV",
+    "RATE": 7,
+    "DEATHS": "114",
+    "URL": "/nchs/pressroom/states/westvirginia/wv.htm",
+    "GROUP": "NOT WEST",
+    "C": "steelblue"
+  }
+]

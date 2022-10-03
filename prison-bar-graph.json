@@ -1,38 +1,48 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": {"text": "Total Prisons by Region", "fontSize": 15},
-  "width": 300,
-  "height": 300,
+  "title": {
+    "text": "Total Prisons by Region",
+    "fontSize": 17,
+    "offset": 10
+  },
+  "width": 225,
+  "height": 225,
+  "padding": 30,
 
   "data": {
     "url": "prisons-by-region.json"
   },
 
-  "mark": {"type": "bar", "size": 40},
+  "mark": {"type": "bar", "size": 30},
   "encoding": {
+    "fillOpacity": {
+      "value": 1
+    },
     "x": {
       "field": "REGION",
       "type": "nominal",
       "sort": ["SOUTHEAST", "MIDWEST", "WEST", "SOUTHWEST", "NORTHEAST"],
       "axis": {
+        "titleFontWeight": "100",
         "title": "Region",
         "labelAngle": 40,
-        "labelFontSize": 12,
-        "titleFontSize": 18
+        "labelFontSize": 11,
+        "titleFontSize": 15
       }
     },
     "y": {
       "field": "PRISONS",
       "type": "quantitative",
-      "scale": {"domain": [0, 1700]},
+      "scale": {"domain": [0, 1750]},
       "axis": {
+        "titleFontWeight": "100",
         "title": "Total Prisons",
         "labelFontSize": 12,
-        "titleFontSize": 18,
+        "titleFontSize": 15,
         "tickCount": 5,
         "gridColor": {
           "condition": {"test": "datum.value === 0", "value": "black"},
-          "value": "#ddd"
+          "value": "#c0c0c0"
         }
       }
     },
@@ -43,5 +53,10 @@
     },
     "tooltip": {"field": "PRISONS", "type": "quantitative"}
   },
-  "config": {}
+  "config": {
+    "background": "#f8f8f8",
+    "view": {
+      "stroke": "transparent"
+    }
+  }
 }
